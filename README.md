@@ -1,6 +1,6 @@
 
 
-https://readme-typing-svg.demolab.com/demo/?weight=700&size=26&repeat=false&width=550&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Paradise+George%F0%9F%91%8B+Hi%2C+I'm+Paradise+George
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&repeat=false&width=550&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Paradise+George%F0%9F%91%8B+Hi%2C+I'm+Paradise+George)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Paradise Samuel George
 
