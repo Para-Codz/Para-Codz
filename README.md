@@ -1,11 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&repeat=false&width=550&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Paradise+George.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Paradise++George.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=80&lines=I'm+a+passionate+Frontend+Web+Developer+.)](https://git.io/typing-svg)
 
 
-# 👋 Hi, I'm Paradise Samuel George
+# 👋 Hi, I'm Paradise George
 
 ## 🚀 About Me
 *****I'm a passionate Frontend Web Developer focused on building clean, responsive, and user-friendly web experiences.*****
