@@ -17,7 +17,7 @@
 
 ### HTML5
 
-### CSS3***
+### CSS3
 
 ### JavaScript
 
@@ -40,7 +40,7 @@
 
 ## 🤝 Let's Connect
 
-### 🐦 Twitter/X:[ @YOUR_HANDLE](https://x.com/ParadiseGe41509)
+### 🐦 Twitter/X:(https://x.com/ParadiseGe41509)
 
 ### 📧 Email: georgeparadise4u@gmail.com
 
